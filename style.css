@@ -1,0 +1,207 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+}
+.container {
+	width: 940px;
+	margin: auto;
+}
+header {
+	background: linear-gradient(#d5d5d5, #fff);
+}
+nav {
+	padding: 37px 0 25px 0;
+}
+nav ul {
+	list-style: none;
+	padding: 0;
+	float: right;
+}
+nav ul li {
+	display: inline-block;
+	padding: 0 10px 8px 10px;
+	font: .7em Tahoma;
+	color: #b7b7b7;
+	border-left: 1px dotted #d6d6d6;
+}
+nav ul li a {
+	display: block;
+	font: bold .9rem Georgia;
+	color: #666;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+main {
+	background: #fff url('img/mainbg.jpg') top repeat-x;
+}
+main .container {
+	padding: 22px 0 0 0;
+}
+#slider {
+	height: 340px;
+	border: 1px solid #c6c6c6;
+	border-radius: 7px;
+	background: url('img/slider.jpg') center;
+}
+h1 {
+  font: bold 1.5em Georgia;
+  color: #000;
+  text-align: center;
+}
+hr {
+	border: 0;
+	border-top: 1px solid #e5e5e5;
+}
+.row {
+	overflow: auto;
+}
+.col {
+	width: 300px;
+	float: left;
+	margin: 0 20px 0 0;
+}
+.col:last-child {
+	margin: 0;
+}
+article img {
+	padding: 6px;
+	background: #f3f3f3;
+	border: 1px solid #e1e1e1;
+	border-radius: 4px;
+}
+.duyme{
+	border: 1px solid #d8d8d8;
+	border-radius: 3px;
+	background:linear-gradient(#e0e0e0, #f5f5f5, #eaeaea);
+	color: #3f8caf;
+	padding: 10px 88px 10px 12px;
+	margin: 0 0 35px 5px;
+}
+
+
+#xett {
+	border: 0;
+	border-top: 1px solid #e5e5e5;
+	margin: 
+}
+
+.basliq{
+	font: 1.13em Georgia;
+	color: #444444;
+	text-align: left;
+	margin: 32px 0 0 0;
+}
+
+.xett{
+	border: 0;
+	border-top: 1px dashed #d3d3d3;
+	size: 12px;
+	clear: both;
+}
+.text{
+	width: 339px;
+	font-size: .8em Helvetica;
+	color: #444444;
+}
+
+
+
+#basliq{
+	font: bold 1.13em Gill Sans;
+	color: #444444;
+	text-align: left;
+}
+input{
+	width: 296px;
+	border-radius: 4px;
+	background: #ffffff;
+	border: 1px solid #cfcfcf;
+	color: #d4d4d4;
+	padding: 12px 0 11px 8px;
+}
+.button{
+	border: 1px solid #004a80;
+	border-radius: 3px;
+	padding: 10px 93px 10px 12px;
+	color: #f9fbfb;
+	background:linear-gradient(#3a77a5, #4c83bd, #406d9a);
+	margin: 7px 0 0 0;
+}
+
+.img{
+	border: 1px solid #cfcfcf;
+	border-radius: 4px;
+	background-color: #f0f0f0;
+	padding: 6px;
+	margin: 8px 8px 18px 0;
+	float: left;
+}
+.metn{
+	text-align: left;
+	font-size: .9em;
+	color: #444444;
+	margin: 12px 0 0 12px;
+}
+ 
+#text{
+	color: #999999;
+	text-align: left;
+	font-size: .7em Helvetica;	
+}
+.sekil{
+	margin: 0 0 5px 0;
+}
+.xana{
+	margin: 4px;
+}
+.yazi{
+	font-size:  1.3em Georgia;
+	color: #11719e;
+	margin: 10px 0 0 0;
+}
+.cumle{
+	font-size: .8em Helvetica;
+	color: #8c8c8c;
+	margin: 0 0 10px 0;
+}
+#button2 {
+	margin: 0;
+}
+#button3{
+	margin: 14px 0 0 0;
+}
+footer{
+	background: #333333;
+	border-top: 10px solid #4c4c4c;
+	padding: 17px 5px 102px 0; ;
+}
+.div1{
+	width: 470px;
+	float: left;
+}
+.div2{
+	width: 400px;
+	float: right;
+}
+footer div p,a{
+	font: .7em Helvetica;
+	color: #999999;
+}
+footer ul{
+	text-decoration: none;
+	padding: 0;
+	list-style: none;
+}
+footer ul li {
+	display: inline-block;
+	list-style: none;
+	border-right: 1px solid #7e7e7e;
+	
+
+}
+footer ul li a{
+	text-decoration: none;
+
+}
